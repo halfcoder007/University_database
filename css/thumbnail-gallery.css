@@ -1,0 +1,45 @@
+
+
+body {
+    padding-top: 70px; 
+}
+
+.thumb {
+    margin-bottom: 20px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.thumb {
+   display: relative;
+}
+
+.thumb:hover .glyphicon {
+  position: absolute;
+  
+ 
+  visibility:visible;
+}
+
+.glyphicon{  position: absolute;
+  
+
+visibility:visible;}
+
+
+.glyphicon.glyphicon-tags{
+    font-size: 30px;
+	top:240px;
+	left:157px;
+	color:Teal ;
+}
+
+
+.glyphicon.glyphicon-play{
+    font-size: 30px;
+	top:110px;
+	left:100px;
+	color:black;
+}
